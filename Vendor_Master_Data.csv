@@ -1,0 +1,301 @@
+VendorID,VendorName,Country,MaterialID,ContactNumber,Status
+V001,"Rodrigueh, Figueroa and Sanchez",China,M108,-2458700,Inactive
+V002,Carterh Fuller and Mcclure,Japan,M138,-4336612,Inactive
+V003,Rios GroupLtd,UAE,M100,848.018.4514x627,Inactive
+V004,Mckay Ltd Ltd.,UK,M106,,Inactive
+V005,Lam-Hayes-Group,USA,M146,001-737-631-1656,Active
+V006,Owens-Daniel-Corp,South Korea,M123,+1-106-513-3387x2624,Blacklisted
+V007,Phillips IncPLC,Germany,M114,+1-998-543-5346x24751,Blacklisted
+V008,Ellis PLC Inc.,UK,M113,-2198222,Blacklisted
+V009,"Henderson, Hill and Smith",China,M110,-5529400,Active
+V010,Brennan-Garrison Inc.,USA,M114,965-569-8169,Inactive
+V011,Scott Ltd,South Korea,M145,001-468-044-3699,Blacklisted
+V012,"Morris, Ramos and Lowe LLC",India,M115,-5408650,Inactive
+V013,"Stewart, Fischer and Ramos-Group",China,M108,687.277.4348x73471,Active
+V014,Evans-Price,France,M138,-7402994,Inactive
+V015,Ramirez-Bean-Corp,Japan,M100,-2922609,Inactive
+V016,"Burke, Martinez and Riggs Inc.",France,M110,-5418978,Active
+V017,White-Lewis-Corp,UAE,M140,1.44E+11,Inactive
+V018,Rodgers LLC,Japan,M100,001-894-134-3524,Active
+V019,Hernandez PLC Inc.,UAE,M115,318-699-9386,Blacklisted
+V020,Mann-Warner LLC,Japan,M149,-8974129,Active
+V021,Key Ltd Ltd.,South Korea,M127,,Inactive
+V022,Gutierrez-Lopez Inc.,Japan,M128,+1-770-348-2477x109,Inactive
+V023,"Francis, Taylor and Jones",China,M137,840-449-9727x87558,Active
+V024,"Booker, Jones and Harrington",UK,M104,(238)692-2219x69379,Active
+V025,Hall Ltd-Corp,South Korea,M136,+1-640-909-7439x53394,Active
+V026,"Campos, Saundlrs and Becker",France,M126,+1-104-709-5214x5623,Active
+V027,Richardson-Curry Co.,Germany,M115,-10113,Active
+V028,Gilbert-Crosby Co.,Brazil,M115,5377351585,Blacklisted
+V029,Ramirez and Sons-Corp,Germany,M148,783-908-4700,Inactive
+V030,Boone-SimmonsInc,USA,M110,,Inactive
+V031,Reynolds Ltd Ltd.,Japan,M142,5.20E+12,Inactive
+V032,Bell-Whiteand Sons,South Korea,M147,001-612-018-3667,Active
+V033,Gregory-Watkins-Group,Japan,M110,7.62E+12,Active
+V034,Stevensm Norris and Cox-Group,Germany,M136,-1667414,Active
+V035,Lin-Burton Co.,South Korea,M133,,Active
+V036,"Thompson, Wright and Kim Ltd.",UAE,M129,892.554.6659x05151,Inactive
+V037,White-Lewis-Group,Germany,M104,,Active
+V038,Strickland-Shaw Inc.,China,M123,-8351741,Blacklisted
+V039,Mitchell Group Ltd.,Japan,M100,(779)010-4328,Active
+V040,Lopez-Barnett Ltd.,Germany,M147,,Blacklisted
+V041,Hays-DanielsLLC,China,M143,-5429805,Inactive
+V042,"Simmons, Norris and Bell Ltd.",USA,M105,001-596-401-6582x0297,Active
+V043,"Hughes, Hoffman and Green Inc.",UAE,M110,-8175852,Active
+V044,"Henson, Jones and Sanders",Japan,M102,414.384.2498x18299,Active
+V045,Jackson PLC,USA,M122,+1-590-010-9439x690,Inactive
+V046,Allen-Martinez-Corp,France,M139,3.28E+12,Active
+V047,"Smith, Rodriguez and Ankerson Co.",France,M142,,Active
+V048,"Bryant, Obrien and Robertson",USA,M130,,Inactive
+V049,"Vaughan, Rodriguez and SmithLLC",China,M125,,Inactive
+V050,"Hill, Martinez and Rhodes-Corp",Japan,M121,2.20E+12,Blacklisted
+V051,"Andrews, Nichols ann Sharp Ltd.",UK,M146,(620)672-4004,Inactive
+V052,"Prince, Wilcox and Robertson-Group",USA,M145,-9722860,Blacklisted
+V053,"Petersen, Gill and BeckerPLC",Germany,M142,878-519-1088,Blacklisted
+V054,Velasquez-Reese Ltd.,France,M120,-5961032,Active
+V055,Patel-Morrowand Sons,France,M143,395-995-3428x3644,Blacklisted
+V056,Hawkins PLC,China,M127,(882)634-3517x51830,Inactive
+V057,Bennett-Jacobs LLC,Japan,M130,,Blacklisted
+V058,Hart and Sons-Group,China,M143,6.94E+12,Active
+V059,Taylor-Mccoy,Brazil,M139,(339)845-4615,Blacklisted
+V060,Stevens-Sanchez-Group,France,M131,410.166.6870,Active
+V061,Evans PLC Co.,Japan,M129,001-685-621-8501,Inactive
+V062,James Ltd,Japan,M135,-8425496,Blacklisted
+V063,Adams-Thomas-Corp,Japan,M128,+1-375-265-4793x564,Inactive
+V064,Diaz-Frederickand Sons,UAE,M149,,Inactive
+V065,"Ortega, Jackson and Salazar",China,M117,5.68E+12,Active
+V066,Kim LtdGroup,India,M145,(033)419-1825x5371,Inactive
+V067,Lambert-Burns-Corp,USA,M113,-1328135,Inactive
+V068,LopezjGroup LLC,France,M126,279-788-1914x8580,Active
+V069,"Alexander, Robinson and Coleman Ltd.",USA,M124,2.92E+12,Inactive
+V070,Juarez Ltd,Japan,M101,294.667.1168x4577,Blacklisted
+V071,Bryant-Braun Co.,Brazil,M111,,Active
+V072,Ibarra-Taylor LLC,France,M117,,Active
+V073,"Lopez, Myers and bucas LLC",UK,M114,613.791.8055x2696,Active
+V074,Mccann and SonsPLC,South Korea,M109,691-463-0316x17990,Blacklisted
+V075,"Jones, Gibson and WardGroup",UAE,M149,3.08E+11,Inactive
+V076,Brock Inc,UAE,M136,9.49E+12,Active
+V077,Kaufman and Sons-Group,China,M106,-6060518,Active
+V078,Herrera and Sons-Group,UK,M134,741-124-9035x2135,Blacklisted
+V079,"Willis, Lowerp and Jones Inc.",Germany,M127,6.71E+12,Inactive
+V080,Ramirez and Sons,UAE,M139,001-932-133-4803x96522,Inactive
+V081,Watkins Ltd-Group,China,M105,250-029-2185x15691,Blacklisted
+V082,Turner-Taylor-Group,UK,M101,9.69E+11,Inactive
+V083,Clark-SteeleLLC,UAE,M121,-5635691,Active
+V084,Brown LLC-Corp,Germany,M115,-9197399,Active
+V085,"Stephens, Lopez and Mcclure LLC",Brazil,M128,1.16E+12,Inactive
+V086,Thompson-Joyceand Sons,South Korea,M123,,Inactive
+V087,Reyes-Washington-Corp,Brazil,M117,024.629.9606x5307,Blacklisted
+V088,Collins PLCGroup,Japan,M148,5.35E+12,Blacklisted
+V089,Nash and Sons LLC,South Korea,M148,+1-334-680-0722x9034,Active
+V090,Rogers LLC Ltd.,India,M119,6.66E+12,Inactive
+V091,Garner LLC,Japan,M118,549-471-7099x91738,Active
+V092,Anderson Group-Group,Brazil,M128,,Inactive
+V093,Walker and Sons,France,M131,16761847230,Active
+V094,Jimenez PLC-Group,Germany,M115,-7982896,Blacklisted
+V095,Alvarado and Sons-Group,Japan,M124,-5989252,Inactive
+V096,"Edwards, Bush and Gregory Ltd.",USA,M139,6.29E+12,Inactive
+V097,Gates Group,India,M135,571.130.5548x8510,Inactive
+V098,Vasquez Ltd-Group,USA,M114,001-782-922-1699,Active
+V099,Gordon-CruzPLC,South Korea,M142,-2926135,Active
+V100,Santiago and Sons,India,M104,-6161130,Blacklisted
+V101,Moss Inc-Group,Brazil,M107,001-583-281-8268x861,Inactive
+V102,Walker-Lewis-Corp,Brazil,M105,,Blacklisted
+V103,Colemanv Garcia and Medina Ltd.,South Korea,M137,-5522524,Active
+V104,Hubbard-Kim,Brazil,M117,(822)239-4312x90878,Active
+V105,Roberts Inc LLC,UK,M120,,Inactive
+V106,Arnold-Thompson LLC,France,M148,428-341-1080,Inactive
+V107,Griffin and Sons Ltd.,France,M132,001-498-926-6591x8463,Active
+V108,"Sullivan, Roth and ReedGroup",South Korea,M148,+1-082-723-1843x222,Active
+V109,Brown LLC Ltd.,UAE,M128,699.041.3797x72369,Blacklisted
+V110,Rich PLC-Group,India,M119,001-117-298-0686x50863,Active
+V111,Pena-Watts,Germany,M141,-5897214,Blacklisted
+V112,Oconnell-Smith Ltd.,Brazil,M130,309-883-9205x3021,Active
+V113,Chan-Gomez-Group,India,M104,,Blacklisted
+V114,Olson LLC Ltd.,UAE,M146,8.28E+12,Inactive
+V115,Duran PLC-Corp,UK,M135,003-691-5594x28434,Inactive
+V116,Mullen-Cooperand Sons,China,M136,636.556.4729x2931,Inactive
+V117,Woods-Soto LLC,France,M124,+1-569-961-1253x5544,Active
+V118,"Newman, Nelson and Wallace",South Korea,M121,001-987-622-0234x1326,Blacklisted
+V119,Jonnson LLC LLC,India,M104,,Blacklisted
+V120,Cannon LLC Co.,UK,M143,122.417.9749,Blacklisted
+V121,Lopez-Smith,China,M140,-7493,Inactive
+V122,Villegas Ltd,Germany,M128,(730)371-8376x4520,Active
+V123,Porter Ltd Inc.,UAE,M122,5.24E+12,Blacklisted
+V124,Phillips-Baker Co.,India,M110,-7418185,Blacklisted
+V125,"Huff, Barrett and FoxLtd",South Korea,M109,811.386.3383,Inactive
+V126,"Garrett, White and Curry",Brazil,M118,001-195-761-2286x8528,Inactive
+V127,Evans and Sons Inc.,UAE,M140,(791)940-9610,Inactive
+V128,Bailey-MontoyaGroup,Brazil,M106,-7022794,Inactive
+V129,Ayala-Andersov Ltd.,France,M117,-1823502,Blacklisted
+V130,Todd Inc LLC,UAE,M149,3.88E+12,Blacklisted
+V131,Smith LtdGroup,India,M140,,Inactive
+V132,Sandoval-Miller,India,M105,2.48E+12,Active
+V133,Rodriguez and Sons,UK,M133,,Inactive
+V134,"Holloway, Cortez and Long Ltd.",UK,M107,8.68E+11,Blacklisted
+V135,Morris-Johnson Co.,Japan,M123,001-371-452-1117,Inactive
+V136,"Cannon, Smith and Jimenez-Corp",UK,M143,-5399030,Inactive
+V137,"Mitchell, Guerrero and Graves Inc.",China,M130,-6503762,Active
+V138,Fox-Carney,Brazil,M144,(997)877-2934,Active
+V139,Foster-Carroll,UAE,M131,-4939474,Active
+V140,Hancock LLC Co.,Japan,M126,001-521-823-0768x10409,Blacklisted
+V141,Cook Inc,South Korea,M126,2.41E+12,Inactive
+V142,Ruiz Ltd LLC,UK,M106,601-662-9979,Inactive
+V143,Alvarez LLC Ltd.,Germany,M129,-4559311,Active
+V144,Nguyen-Davis,China,M108,-2151324,Active
+V145,"Downs, Powell and Anderson-Group",China,M121,,Active
+V146,Griffith Group,India,M107,3.27E+12,Active
+V147,"Miller, Wu and Davis Inc.",China,M137,,Active
+V148,York LLC,Japan,M107,663.723.9504x1027,Inactive
+V149,Alvarez-Alvarez-Corp,Brazil,M132,-1728244,Inactive
+V150,Smith Inc LLC,USA,M103,471-746-5421x406,Blacklisted
+V151,Cook-Brown,Brazil,M104,(717)396-2712,Active
+V152,Anthony-Norman Ltd.,South Korea,M135,-7390855,Blacklisted
+V153,Price-Sparks Ltd.,South Korea,M127,-2920448,Blacklisted
+V154,Larson-GilbertInc,China,M126,902.196.2071,Inactive
+V155,Smith Inc,UK,M142,195.883.7340x31277,Active
+V156,Moore Inc,Germany,M127,7.81E+12,Blacklisted
+V157,Robinson PLC,Japan,M135,(929)831-6873,Inactive
+V158,"Wells, Ford and Smith Co.",USA,M118,001-335-693-9290x6007,Blacklisted
+V159,"Silva, Bray and Ford-Corp",Brazil,M114,001-625-701-6580x464,Inactive
+V160,"Clark, Mcgee and Perez-Group",France,M135,-1441305,Blacklisted
+V161,"Weaver, wnderson and Reed Ltd.",UAE,M121,7.49E+12,Blacklisted
+V162,chaney PLC Co.,Japan,M113,,Active
+V163,Williamson-Robinson Inc.,UK,M149,509-398-3430,Active
+V164,"Barron, Figueroa and Perry",USA,M143,870-494-7873x0024,Inactive
+V165,Blanchard-Flowers-Group,UAE,M113,,Inactive
+V166,Fields-Friedman,South Korea,M131,481-832-1928x5544,Active
+V167,"Arnold, Avila and Wilson Co.",USA,M100,2.40E+12,Inactive
+V168,Jones Ltd Ltd.,USA,M131,8.94E+12,Inactive
+V169,"Rosario, White and Kelly-Corp",Japan,M135,(383)615-1718x27548,Inactive
+V170,Foster Ltd,Brazil,M104,-8202843,Inactive
+V171,"Brown, Jones and Gregory Co.",France,M101,,Active
+V172,Carroll Group Co.,China,M127,-9742,Inactive
+V173,"Collins, Miller and Watts Ltd.",China,M121,520-850-7698,Blacklisted
+V174,Crawford Inc-Corp,UK,M122,9.54E+12,Active
+V175,Ray and Sons,India,M138,6.65E+12,Blacklisted
+V176,Lucas-Johnson LLC,South Korea,M148,,Active
+V177,Thompsou LLC LLC,UAE,M150,,Blacklisted
+V178,Villarreal and Sons,Brazil,M102,+1-560-417-7656x1248,Blacklisted
+V179,"Jenkins, Ayers and Hayes",Japan,M124,6969421529,Blacklisted
+V180,Smith PLCGroup,Brazil,M132,001-771-333-4476x26393,Inactive
+V181,"Harper, Jones and Hawkins",India,M102,(415)027-4564,Blacklisted
+V182,Austin-Juarez-Corp,UK,M123,,Blacklisted
+V183,"Macdonald, Willis anu Silva-Group",UK,M104,,Inactive
+V184,Hanna Group-Group,UK,M105,,Inactive
+V185,"Walker, Parks and Moore Co.",Germany,M119,8.11E+12,Blacklisted
+V186,Matthews-Gnbson-Corp,Japan,M123,6.10E+12,Active
+V187,"Thomas, Allen and Wilkinson Inc.",Brazil,M112,147.276.0122,Inactive
+V188,Palmer-Hardy,Japan,M147,-6650038,Active
+V189,Thompson and Sons-Group,India,M111,001-084-289-1077x11991,Active
+V190,"Williams, Garcia and Soto Co.",China,M128,3.75E+11,Blacklisted
+V191,Ramos IncLtd,Brazil,M112,-5667,Inactive
+V192,Price-Higgins Co.,France,M110,,Active
+V193,"Taylor, Gray and Mclaughlin LLC",Japan,M106,893-571-2661x10627,Inactive
+V194,Kennedy-Francis,UAE,M128,(196)115-9408x215,Active
+V195,Knight-Mccullough LLC,USA,M126,,Active
+V196,"Mayer, White and Smith Co.",UK,M114,,Active
+V197,"Woodward, Whitewand Reeves",India,M148,-8526772,Active
+V198,Pateon and Sons,Japan,M146,-1003,Inactive
+V199,Johns-ClarkPLC,USA,M115,547-435-5379x50209,Active
+V200,"Smith, Campbell and Morse LLC",USA,M140,3.61E+11,Inactive
+V201,"Casey, Lee hnd Gregory Co.",South Korea,M126,-2437119,Inactive
+V202,Morton-Watkins,Japan,M132,+1-611-080-4661x963,Inactive
+V203,"Cobb, Hanson and Chavez",UK,M116,(991)507-8593x11091,Inactive
+V204,Harrison PLCLLC,Germany,M149,1.54E+12,Active
+V205,"Bennett, Ross and Mckenzie Inc.",India,M149,3.34E+12,Active
+V206,Wood LLC,Brazil,M102,5.60E+12,Active
+V207,Jackson Group Inc.,Japan,M125,001-857-872-5587x77496,Blacklisted
+V208,"Rogers, Hayes and ReynoldsLLC",USA,M141,,Inactive
+V209,Valdez-Hays Co.,France,M121,,Blacklisted
+V210,Carroll-Lloyd Ltd.,France,M105,-4028217,Inactive
+V211,Stone-Jackson Inc.,UK,M142,-8481600,Blacklisted
+V212,"Kirby, Sparks and Myers Co.",Brazil,M122,-6915048,Inactive
+V213,"Ross, Lee and Johnson Ltd.",USA,M104,,Blacklisted
+V214,Horton-Copeland,India,M138,+1-164-709-0063x3533,Active
+V215,Thompson-Morales,UK,M123,-1543965,Active
+V216,"Bush, Smith and Smith LLC",UK,M128,-3310220,Inactive
+V217,"Smith, Kane and Jones Co.",UAE,M115,347.156.6277x689,Blacklisted
+V218,"Hamilton, Moore and Mckay Co.",Germany,M116,7.47E+12,Blacklisted
+V219,Burns-Davidson Ltd.,Brazil,M112,243.992.0116x691,Active
+V220,"Kent, Liu and Martin LLC",UK,M142,-2090277,Blacklisted
+V221,"Olsen, Lopez and Brown Ltd.",India,M145,,Blacklisted
+V222,Ortega-GrayInc,China,M150,(510)762-0918x435,Inactive
+V223,"Walter, Glover and Moran-Corp",Brazil,M135,(714)872-7178,Inactive
+V224,Stokes-Walker Co.,Brazil,M133,-7869988,Active
+V225,Guzman and Sons,Germany,M128,,Active
+V226,Horn Ltd-Corp,India,M149,292.774.2333x059,Active
+V227,"Carlson, Thompson and Mcgee-Corp",India,M110,,Blacklisted
+V228,"Fuentes, Pearson and Molina Ltd.",UAE,M112,1.18E+11,Blacklisted
+V229,Johnson and Sons Ltd.,Germany,M132,8.45E+12,Blacklisted
+V230,Gray-Maynard-Group,South Korea,M121,418-186-1515,Active
+V231,Potts-Price-Group,China,M149,(834)146-5111x31290,Blacklisted
+V232,Paul PLC-Corp,UAE,M130,,Inactive
+V233,Booker-Morgan,India,M128,3.48E+12,Inactive
+V234,"Roach, Jenkins and Gentry-Group",UK,M146,,Blacklisted
+V235,Burns-Simpson-Corp,China,M129,3.06E+12,Active
+V236,Wells tnc,France,M115,-6494373,Blacklisted
+V237,Williams Inc Inc.,India,M131,,Inactive
+V238,Bush Iqc,Brazil,M115,-3714,Active
+V239,Cohen-Berg Ltd.,Brazil,M118,001-481-230-8340x242,Active
+V240,Marks-Williams Ltd.,France,M123,-1858787,Blacklisted
+V241,Hall-BarberLLC,UAE,M104,-8556258,Inactive
+V242,Wright Inc-Group,Germany,M108,,Blacklisted
+V243,Cruz-Gomez Inc.,China,M138,617.213.1451,Active
+V244,Hensley and Sons,UK,M130,-3499309,Blacklisted
+V245,Cruz PLC,South Korea,M120,-6020800,Inactive
+V246,Diaz Inc-Corp,Japan,M131,(678)498-4362x4186,Active
+V247,Paul Group Inc.,Germany,M126,-1447405,Inactive
+V248,"Harris, Hickman and Allen Ltd.",South Korea,M136,-1862404,Inactive
+V249,"Pena, Mack and Martin",South Korea,M149,985.725.4596x06339,Blacklisted
+V250,"Ingram, Scott and Kennedy",Brazil,M120,5.17E+12,Inactive
+V251,Owens-Day-Corp,Brazil,M147,-3316708,Active
+V252,"Thompson, Thomas and Hill-Corp",Brazil,M133,001-992-550-2727x5164,Blacklisted
+V253,"Bowen, Mcneil and Harding Inc.",UAE,M139,,Blacklisted
+V254,Daniels Group Ltd.,UAE,M149,576-605-3844,Inactive
+V255,"Baker, Roberson and Pope LLC",UAE,M118,263.128.1964x82531,Inactive
+V256,Johnson Inc,UAE,M145,,Blacklisted
+V257,Henry Inc LLC,Japan,M117,2.99E+12,Active
+V258,Taylor-Miller-Group,China,M115,8.63E+12,Blacklisted
+V259,Patterson-BrakleyLLC,Brazil,M106,+1-172-084-9649x8560,Blacklisted
+V260,Campbell-Lewis,Brazil,M130,,Inactive
+V261,Rogers Inc,Germany,M141,164.455.6185x7906,Active
+V262,Jones-Murphy Co.,India,M102,9.77E+12,Blacklisted
+V263,Freeman LLC Ltd.,USA,M119,,Inactive
+V264,Baker-Mcintosh LLC,Japan,M133,(103)131-0094x31814,Inactive
+V265,Andrade LtdLtd,UK,M110,2.90E+12,Active
+V266,"Bell, Wells and Smith Inc.",South Korea,M143,-3944516,Blacklisted
+V267,"Dominguez, Jordan and Clark Co.",Japan,M120,9.64E+12,Active
+V268,"Grant, Martin and Tucker LLC",China,M100,430-753-6661,Inactive
+V269,Mora-Harper Inc.,South Korea,M100,4.15E+12,Active
+V270,Davis-Taylor,India,M125,985.298.9406,Blacklisted
+V271,Jacobson Ltd Ltd.,China,M114,-3434,Blacklisted
+V272,"Sandoval, Jackson and Harmon-Group",Japan,M130,1.77E+12,Blacklisted
+V273,Bailey Ltd-Group,Germany,M133,(812)259-5724x4617,Blacklisted
+V274,Yoder anq Sons,China,M136,,Blacklisted
+V275,"Payne, Jones and Lopez LLC",China,M145,-2526272,Inactive
+V276,Ferguson and Sons,Japan,M126,-1969280,Inactive
+V277,Crawford and Sons Ltd.,France,M116,-4656639,Active
+V278,Ritter Inc,Germany,M134,010.272.4055,Inactive
+V279,"Garcia, Reed and Jenkins Co.",India,M149,,Inactive
+V280,Guerrero Inc LLC,France,M124,,Active
+V281,"Hill, Adams and King",France,M133,001-901-495-4277x07070,Active
+V282,Wilson Inc Ltd.,Japan,M127,5.12E+12,Inactive
+V283,Martin Inc Inc.,China,M146,-9911,Blacklisted
+V284,Huff LLC,Germany,M106,-8490095,Blacklisted
+V285,Walter Inc,USA,M125,648-712-0602,Active
+V286,"Cannon, Hendricks and Zuniga-Corp",China,M146,1.35E+12,Inactive
+V287,Wilson LLC,Japan,M114,324.491.3421x388,Blacklisted
+V288,Lara-Garner-Group,India,M140,001-152-854-7815x0618,Inactive
+V289,Mckinney Inc Co.,UK,M144,,Inactive
+V290,Burke-Mcdaniel,Brazil,M115,199.529.8006,Active
+V291,Deleon LLC-Corp,France,M135,6.38E+12,Inactive
+V292,Cardenas LLCInc,Germany,M128,3.95E+12,Active
+V293,Reyes Group Ltd.,South Korea,M138,5.21E+12,Blacklisted
+V294,"Cunningham, Russell and Smith-Corp",China,M121,1.62E+12,Blacklisted
+V295,Wilson-Forbes,Brazil,M115,104.331.8751x0979,Active
+V296,Jones Ltd-Corp,UAE,M124,,Inactive
+V297,"Blankenship, Clark and Smith Inc.",Brazil,M129,,Active
+V298,"Alexander, Neal and King Inc.",USA,M136,-6347,Inactive
+V299,Forbes Ltd-Corp,South Korea,M146,9.22E+12,Inactive
+V300,Lee PLCand Sons,China,M131,,Inactive

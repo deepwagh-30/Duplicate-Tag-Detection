@@ -1,0 +1,490 @@
+MaterialID,MaterialDescription,MaterialType,UnitOfMeasure,MaterialGroup,Status,CreatedDate,Weight
+M0001,Steel Pipe,Component,Kg,Chemicals,Under Review,02-05-2015,356.47
+M0002,Circuit Board,Assembly,kilogram,Electronics,Under Review,06-25-2018,150.91
+M0003,Plastic Sheet,Finished Good,Kg,Chemicals,Under Review,31-08-2015,314.48
+M0004,Copper Wire,Finished Good,kg,Plastics,Inactive,11-23-2017,
+M0005,Copper Wire,Finished Good,each,,Under Review,12-08-2017,20.57
+M0005,Copper Wire,Finished Good,each,,Under Review,12-08-2017,20.57
+M0006,Plastic Sheet,Component,kg,Metals,Active,12-07-2023,
+M0007,Copper Wire,Assembly,KC,Electronics,Inactive,04-01-2023,117.08
+M0008,Circuit Board,Raw Material,kg,Plastics,Inactive,03-05-2021,163.83
+M0009,Copper Wire,Raw Material,kilogram,Electronics,Active,09-17-2010,122.07
+M0009,Copper Wire,Raw Material,kilogram,Electronics,Active,09-17-2010,122.07
+M0010,Copper Wire,Raw Material,pcs,Metals,Inactive,07-12-2023,2.45
+M0011,Plastic Sheet,Component,each,,Under Review,02-04-2018,
+M0012,Copper Wire,Finished Good,kg,,Under Review,09-09-2022,200.36
+M0013,Plastic Sheet,Raw Material,each,,Active,06-06-2013,286.21
+M0014,Copper Wire,Finished Good,each,Chemicals,Active,08-15-2021,251.73
+M0015,Plastic Sheet,Assembly,kilogram,Metals,Under Review,02-27-2015,226.97
+M0015,Plastic Sheet,Assembly,kilogram,Metals,Under Review,02-27-2015,226.97
+M0016,Copper Wire,Finished Good,Kg,Plastics,Inactive,11-07-2015,361.72
+M0017,Copper WirN,Raw Material,eaVh,,Discontinued,07-02-2013,10.53
+M0018,Circuit Board,Raw Material,each,Electronics,Under Review,10-11-2020,271.58
+M0019,Circuit Board,Component,Kg,Chemicals,Active,22-09-2012,232.88
+M0020,Steel Pipe,Component,Kg,Chemicals,Active,11-12-2019,331.44
+M0021,Plastic Sheet,Raw Material,each,Plastics,Discontinued,24-08-2020,450.65
+M0022,Copper Wire,Component,kg,,Discontinued,09-13-2021,224.77
+M0023,Plastic Sheet,Assembly,kilogram,Plastics,Discontinued,03-01-2011,220.51
+M0024,Steel Pipe,Assembly,kg,Chemicals,Under Review,10-09-2023,139.88
+M0025,CircuiE Board,Component,Kg,Plastics,Discontinued,17-08-2024,248.69
+M0026,PlastiR Sheet,Finished Good,kilogram,Electronics,Discontinued,04-09-2010,461.15
+M0027,Circuit Board,Finished Good,each,Metals,Inactive,03-01-2014,491.75
+M0028,Circuit Board,Finished Good,kilogram,Chemicals,Under Review,11-02-2013,
+M0029,Steel Pipe,Raw Material,pYs,Plastics,Active,05-29-2012,357.47
+M0030,Steel Pipe,Component,kNlogram,,Discontinued,06-02-2020,172.29
+M0031,Circuit Board,Raw Material,Kg,,Inactive,04-09-2022,366.09
+M0032,Circuit BoarP,Component,each,,Active,04-09-2024,
+M0033,Steel Pipe,Component,pcs,Plastics,Under Review,25-08-2010,
+M0034,Copper Wire,Finished Good,Kg,Chemicals,Discontinued,23-05-2021,
+M0035,Steel Pipe,Raw Material,Kg,,Inactive,30-04-2014,421.92
+M0036,Copper Wire,Finished Good,Kg,Plastics,Discontinued,08-01-2017,247
+M0037,CirXuit Board,Assembly,Hg,Chemicals,Inactive,22-10-2016,
+M0038,SteRl Pipe,Raw Material,pcs,Plastics,Inactive,01-16-2018,433.83
+M0039,Steel Pipe,Assembly,pcs,Electronics,Under Review,14-09-2020,315.08
+M0040,Copper Wire,Raw Material,kg,,Inactive,20-01-2017,475.22
+M0041,Plastic Sheet,Assembly,Kg,Electronics,Inactive,12-30-2022,258.6
+M0042,Copper Wire,Finished Good,kilogram,Electronics,Inactive,07-19-2019,247.68
+M0042,Copper Wire,Finished Good,kilogram,Electronics,Inactive,07-19-2019,247.68
+M0043,Steel Pipe,Assembly,Dg,,Discontinued,14-07-2019,179.8
+M0044,Copper Wire,Raw Material,Kg,,Active,09-17-2012,380.19
+M0045,Circuit Board,Assembly,Kg,Chemicals,Active,10-19-2012,91.8
+M0046,Copper Wire,Raw Material,Xg,Metals,Inactive,16-02-2022,356.53
+M0046,Copper Wire,Raw Material,Xg,Metals,Inactive,16-02-2022,356.53
+M0047,Steel Pipe,Raw Material,each,Metals,Discontinued,03-28-2021,27.96
+M0048,SUeel Pipe,Raw Material,pcs,Plastics,Under Review,21-07-2017,305.21
+M0049,Circuit Board,Raw Material,Kg,Electronics,Active,05-18-2014,474.59
+M0050,Plastic Sheet,Component,kilogram,Metals,Under Review,02-03-2017,113.8
+M0051,Steel Pipe,Component,Kg,Plastics,Active,22-01-2024,130.86
+M0052,Plastic Sheet,Finished Good,Wcs,Metals,Inactive,23-03-2019,381.48
+M0052,Plastic Sheet,Finished Good,Wcs,Metals,Inactive,23-03-2019,381.48
+M0053,Copper Wire,Finished Good,each,,Inactive,20-08-2016,229.35
+M0054,Steel Pipe,Assembly,Kcs,Chemicals,Under Review,11-22-2019,
+M0055,Steel Pipe,Assembly,each,,Under Review,09-05-2015,83.13
+M0056,Steel Pipe,Component,each,,Discontinued,27-02-2014,473.28
+M0057,Copper Dire,Raw Material,kg,Chemicals,Inactive,23-05-2016,84.55
+M0058,Steel Pipe,Assembly,each,Electronics,Inactive,07-06-2015,
+M0059,Plastic Sheet,Raw Material,pcs,,Active,10-02-2013,312.48
+M0060,Copper WirC,Finished Good,Kg,Metals,Discontinued,04-29-2020,241.32
+M0061,Copper Wire,Component,kg,Plastics,Under Review,07-07-2022,255.34
+M0062,Circuit Board,Finished Good,kilogram,,Under Review,09-12-2012,72.03
+M0063,Plastic Sheet,Component,pcs,Metals,Active,02-07-2019,224.29
+M0064,Steel Pipe,Component,Wach,Chemicals,Under Review,22-07-2012,174.87
+M0065,Copper Wire,Component,kilogram,,Inactive,10-23-2019,
+M0066,Circuit Board,Assembly,Kg,,Discontinued,16-08-2023,204.59
+M0067,Eircuit Board,Component,kilogram,Plastics,Under Review,15-05-2011,401.01
+M0068,Copper Wire,Finished Good,kilogram,,Active,03-07-2014,308.08
+M0069,PlaNtic Sheet,Component,Kg,,Inactive,04-09-2010,58.88
+M0070,Circuit Board,Assembly,Ncs,Chemicals,Discontinued,20-08-2019,
+M0071,CiCcuit Board,Finished Good,kg,Chemicals,Inactive,11-01-2011,237.31
+M0072,Plastic Sheet,Raw Material,each,Chemicals,Under Review,26-10-2021,133.48
+M0073,Circuit Board,Raw Material,kg,,Inactive,17-01-2022,256.53
+M0074,Copper Wire,Assembly,Kg,Metals,Discontinued,23-12-2023,460.62
+M0075,Steel Pipe,Assembly,Rg,Plastics,Discontinued,14-05-2010,300.61
+M0076,Plastic Sheet,Raw Material,kilogram,Chemicals,Active,10-04-2018,265.99
+M0077,Circuit Board,Component,pcs,Chemicals,Inactive,04-01-2018,17.34
+M0078,Copper Wire,Raw Material,KT,Electronics,Under Review,03-23-2021,
+M0079,Steel Pipe,Component,pPs,Plastics,Discontinued,07-14-2011,180.31
+M0080,CopperUWire,Raw Material,kg,,Discontinued,04-13-2024,199.36
+M0081,Copper WUre,Raw Material,Ng,,Under Review,03-07-2011,69.56
+M0082,Copper Wire,Component,KW,Metals,Inactive,10-12-2013,360.07
+M0083,Steel Pipe,Finished Good,kg,,Under Review,19-11-2017,43.27
+M0084,Circuit BoaFd,Finished Good,kg,Metals,Discontinued,06-03-2024,455.25
+M0085,Copper WirH,Raw Material,kilogram,Plastics,Under Review,01-08-2024,389.77
+M0086,Copper Wire,Raw Material,pTs,Plastics,Active,23-07-2013,
+M0086,Copper Wire,Raw Material,pTs,Plastics,Active,23-07-2013,
+M0087,Copper Wire,Raw Material,eacO,,Discontinued,20-08-2016,249.63
+M0088,PSastic Sheet,Finished Good,kg,Metals,Under Review,06-16-2022,
+M0088,PSastic Sheet,Finished Good,kg,Metals,Under Review,06-16-2022,
+M0089,Steel Pipe,Component,kilogram,Chemicals,Discontinued,02-12-2010,409.16
+M0090,Plastic SheeM,Finished Good,each,Plastics,Inactive,05-31-2021,
+M0091,Plastic Sheet,Finished Good,kg,Metals,Inactive,23-05-2017,197.12
+M0092,Plastic Sheet,Finished Good,Yg,Chemicals,Active,08-03-2018,212.13
+M0093,Plastic Sheet,Finished Good,kilogram,Plastics,Under Review,01-04-2011,266.1
+M0094,Plastic Sheet,Component,Kg,,Discontinued,01-26-2018,99.38
+M0095,Copper Wire,Raw Material,kM,Chemicals,Active,04-06-2015,416.39
+M0096,Plastic Sheet,Finished Good,eacB,Plastics,Discontinued,06-07-2019,
+M0097,Copper Wire,Finished Good,kS,Metals,Discontinued,20-03-2010,151.19
+M0098,Circuit Board,Assembly,kg,Chemicals,Inactive,12-19-2024,169.57
+M0099,Plastic Sheet,Raw Material,Kg,Chemicals,Inactive,23-06-2019,230.02
+M0100,Steel Pipe,Component,kilogram,Metals,Under Review,02-10-2010,314.14
+M0101,StPel Pipe,Component,pcs,Chemicals,Active,24-06-2018,167.1
+M0102,Copper WiBe,Finished Good,each,Metals,Under Review,10-04-2021,192.02
+M0103,Copper Wire,Finished Good,kilVgram,Plastics,Active,30-07-2022,294.68
+M0104,Copper Wire,Assembly,each,,Active,16-11-2023,350.99
+M0105,Steel Pipe,Finished Good,pcs,Plastics,Discontinued,09-12-2012,497.43
+M0106,Circuit Board,Assembly,Kg,Electronics,Discontinued,16-07-2021,361.76
+M0107,PlasAic Sheet,Component,kilogram,Metals,Active,04-03-2018,366.24
+M0108,Plastic Sheet,Component,Kg,Chemicals,Inactive,05-05-2010,54.71
+M0109,Steel Pipe,Component,kg,,Under Review,07-12-2024,159.22
+M0110,Circuit Board,Assembly,eacL,Electronics,Discontinued,17-07-2010,475.38
+M0110,Circuit Board,Assembly,eacL,Electronics,Discontinued,17-07-2010,475.38
+M0111,Circuit Board,Raw Material,each,Metals,Under Review,07-06-2015,294.59
+M0112,Plastic Sheet,Raw Material,kg,Chemicals,Discontinued,04-11-2015,
+M0113,Copper Wire,Component,kilogram,Plastics,Discontinued,10-02-2010,176.18
+M0114,Plastic Sheet,Component,pcs,Electronics,Active,20-09-2014,361.74
+M0115,Copper Wire,Raw Material,each,Electronics,Inactive,13-03-2023,185.09
+M0116,Plastic Sheet,Finished Good,kilogram,Metals,Under Review,06-26-2023,
+M0117,Steel PPpe,Finished Good,each,Metals,Discontinued,25-06-2014,316.94
+M0118,Copper Wire,Component,kg,Plastics,Under Review,12-26-2010,66.97
+M0119,Copper Wire,Finished Good,kilogram,Chemicals,Active,07-10-2018,121.47
+M0120,Circuit Board,Component,pDs,Electronics,Active,01-13-2011,115.12
+M0121,CopperIWire,Component,kilogram,Electronics,Under Review,17-06-2016,195.86
+M0122,Copper WirV,Component,each,,Active,15-10-2024,388.85
+M0123,Copper Sire,Assembly,each,Metals,Active,28-08-2023,286.09
+M0124,PLastic Sheet,Raw Material,kilogram,,Active,19-01-2016,182.31
+M0125,Copper Wire,Finished Good,kg,Electronics,Under Review,05-25-2023,161.58
+M0125,Copper Wire,Finished Good,kg,Electronics,Under Review,05-25-2023,161.58
+M0126,Copper Wire,Raw Material,Kg,,Discontinued,09-17-2021,257.78
+M0127,Plastic SOeet,Assembly,Kg,,Discontinued,24-05-2021,175.91
+M0128,Copper Wire,Component,Kg,Electronics,Discontinued,23-05-2014,267.01
+M0129,Plastic Sheet,Assembly,pcs,Plastics,Discontinued,17-12-2021,8.28
+M0130,Copper Wire,Assembly,kilogram,Metals,Discontinued,12-21-2016,177.69
+M0131,Copper Wire,Assembly,eDch,,Active,25-08-2012,431.5
+M0132,Plastic Sheet,Assembly,eacV,Metals,Inactive,03-22-2015,211.17
+M0132,Plastic Sheet,Assembly,eacV,Metals,Inactive,03-22-2015,211.17
+M0133,Plastic Sheet,Component,pcs,Metals,Under Review,18-06-2019,123.22
+M0134,Circuit BWard,Component,each,,Active,29-04-2023,289.69
+M0135,Copper Wire,Raw Material,kT,,Inactive,29-03-2012,103.7
+M0136,Plastic Sheet,Raw Material,kilogram,Plastics,Discontinued,14-04-2019,145.52
+M0137,Steel Pipe,Assembly,kilogram,Chemicals,Under Review,07-10-2014,329.03
+M0138,Plastic Sheet,Finished Good,pcs,Electronics,Under Review,01-22-2014,489.55
+M0139,CopperKWire,Component,KD,,Under Review,30-11-2010,385.23
+M0140,Plastic Sheet,Component,Kg,Chemicals,Active,14-03-2014,457.37
+M0141,Circuit Board,Component,each,Electronics,Inactive,22-03-2013,158.77
+M0142,Steel Pipe,Component,each,Chemicals,Discontinued,05-03-2024,162.46
+M0143,Copper Wire,Raw Material,Kg,Metals,Active,10-05-2018,407.22
+M0144,Circuit Board,Finished Good,Og,Chemicals,Under Review,11-07-2021,3.85
+M0145,Copper Wire,Finished Good,Kg,Plastics,Discontinued,23-05-2013,176.68
+M0146,PlastDc Sheet,Component,kilogram,Electronics,Discontinued,05-01-2014,317.82
+M0147,Jteel Pipe,Raw Material,Kg,,Discontinued,23-12-2021,176.32
+M0148,Steel Pipe,Raw Material,Kg,Electronics,Under Review,10-16-2017,193.33
+M0149,Plastic Sheet,Raw Material,Rach,Plastics,Discontinued,15-10-2024,31.71
+M0149,Plastic Sheet,Raw Material,Rach,Plastics,Discontinued,15-10-2024,31.71
+M0150,Plastic Sheet,Raw Material,kilogram,Chemicals,Active,16-12-2023,198.73
+M0151,Circuit Board,Finished Good,kilogram,Metals,Inactive,05-08-2016,251.41
+M0152,Copper Wire,Raw Material,eMch,Metals,Under Review,10-06-2017,382.98
+M0153,Steel Pipe,Assembly,eaYh,Plastics,Active,02-10-2013,202.25
+M0154,Yteel Pipe,Component,Tg,Electronics,Under Review,23-04-2017,173.22
+M0155,Copper Wire,Finished Good,KD,Electronics,Inactive,01-29-2024,164.32
+M0156,Plastic Sheet,Raw Material,Ng,Metals,Under Review,06-06-2016,248.93
+M0156,Plastic Sheet,Raw Material,Ng,Metals,Under Review,06-06-2016,248.93
+M0157,Circuit Board,Raw Material,kilogram,Metals,Inactive,09-05-2018,246.93
+M0158,PlastiR Sheet,Finished Good,kg,Plastics,Active,09-28-2017,159.72
+M0159,Steel Pipe,Component,Kg,Chemicals,Inactive,05-24-2019,
+M0160,Circuit Board,Component,kg,Plastics,Active,28-12-2013,166.29
+M0161,SMeel Pipe,Raw Material,kilogram,,Active,23-12-2015,465.29
+M0162,Plastic Sheet,Assembly,pcs,Plastics,Discontinued,22-03-2012,165.71
+M0163,Steel Pipe,Raw Material,KY,Plastics,Discontinued,01-07-2017,287.16
+M0163,Steel Pipe,Raw Material,KY,Plastics,Discontinued,01-07-2017,287.16
+M0164,Copper Wire,Component,kg,Chemicals,Inactive,01-17-2017,72.9
+M0165,PlJstic Sheet,Raw Material,kg,Chemicals,Discontinued,09-12-2012,78.84
+M0166,Copper Wire,Component,Kg,Electronics,Under Review,26-04-2024,414.83
+M0167,Copper Wire,Assembly,kg,Plastics,Active,06-29-2016,
+M0168,Plastic Sheet,Assembly,pcs,Chemicals,Discontinued,18-04-2019,34.91
+M0169,Copper Wire,Finished Good,Kg,Chemicals,Discontinued,20-04-2021,103.76
+M0169,Copper Wire,Finished Good,Kg,Chemicals,Discontinued,20-04-2021,103.76
+M0170,Steel Pipe,Finished Good,Kg,Chemicals,Under Review,14-12-2017,251.9
+M0170,Steel Pipe,Finished Good,Kg,Chemicals,Under Review,14-12-2017,251.9
+M0171,Plastic SheeH,Finished Good,kg,Electronics,Under Review,24-06-2012,131.17
+M0172,PCastic Sheet,Raw Material,kg,Metals,Under Review,25-08-2021,288.97
+M0173,Steel Pipe,Finished Good,each,Chemicals,Under Review,05-28-2014,
+M0174,Steel Pipe,Raw Material,kg,Metals,Active,21-02-2019,404.7
+M0175,Steel Pipe,Assembly,kg,Metals,Under Review,08-05-2019,357.4
+M0176,Plastic Sheet,Raw Material,each,Metals,Inactive,04-07-2020,216.3
+M0177,Circuit Board,Finished Good,pcs,,Inactive,03-01-2018,100.42
+M0178,Copper Wire,Finished Good,Pg,Electronics,Active,24-10-2020,194.3
+M0179,Steel PipI,Component,kg,Electronics,Inactive,01-06-2013,310.88
+M0180,Circuit Board,Finished Good,each,Chemicals,Inactive,08-10-2023,394.17
+M0180,Circuit Board,Finished Good,each,Chemicals,Inactive,08-10-2023,394.17
+M0181,Copper Wire,Raw Material,pcs,,Inactive,13-04-2013,149.43
+M0182,Steel Pipe,Finished Good,pcs,Metals,Discontinued,06-11-2010,483.01
+M0183,Circuit Board,Component,kg,Plastics,Discontinued,19-12-2012,391.6
+M0184,CMpper Wire,Raw Material,kg,Metals,Inactive,27-11-2014,257.3
+M0184,CMpper Wire,Raw Material,kg,Metals,Inactive,27-11-2014,257.3
+M0185,Copper Wire,Component,each,Electronics,Active,08-04-2014,499.8
+M0186,Circuit Board,Assembly,pcs,Chemicals,Under Review,08-31-2022,322.93
+M0187,CArcuit Board,Raw Material,kg,,Discontinued,07-19-2018,268.2
+M0187,CArcuit Board,Raw Material,kg,,Discontinued,07-19-2018,268.2
+M0188,PlasSic Sheet,Raw Material,Kg,Electronics,Inactive,03-10-2024,420.8
+M0189,PlasticSSheet,Component,Kg,Electronics,Discontinued,09-09-2011,126.3
+M0190,CircuitGBoard,Raw Material,pcs,Chemicals,Inactive,02-23-2022,233.39
+M0191,Steel Pipe,Component,kg,,Active,23-04-2018,467.67
+M0191,Steel Pipe,Component,kg,,Active,23-04-2018,467.67
+M0192,Circuit Board,Component,kg,Metals,Inactive,09-08-2022,489.48
+M0193,Plastic Sheet,Raw Material,pcs,Plastics,Under Review,11-15-2017,446.62
+M0194,Plastic Sheet,Finished Good,Kg,Electronics,Inactive,06-02-2022,384.81
+M0195,Copper WEre,Assembly,eaYh,Metals,Under Review,18-08-2024,263.9
+M0196,Plastic ShVet,Assembly,eaIh,Metals,Under Review,23-07-2014,239.03
+M0197,Plastic Sheet,Raw Material,kg,Chemicals,Active,16-02-2014,419.6
+M0198,Copper Wire,Finished Good,pcR,,Under Review,10-09-2015,103.62
+M0199,Circuit Board,Component,kilogram,,Inactive,21-11-2023,236.95
+M0200,Copper Wire,Finished Good,kg,Plastics,Inactive,04-12-2015,59.94
+M0201,Steel Pipe,Assembly,Kg,Metals,Inactive,20-01-2011,249.59
+M0202,Copper Wire,Component,kg,,Under Review,05-21-2014,139.92
+M0203,Circuit Board,Component,Kg,Metals,Active,14-12-2017,447.04
+M0204,Copper Wire,Component,Kg,Electronics,Active,05-18-2010,
+M0205,Copper Wire,Component,kg,Plastics,Inactive,09-23-2013,
+M0206,Copper Wire,Raw Material,pcs,Chemicals,Active,31-03-2016,485.84
+M0207,Copper Wire,Component,Cg,Metals,Under Review,12-05-2012,475.57
+M0208,Plastic Sheet,Finished Good,pcs,Electronics,Active,14-03-2019,
+M0208,Plastic Sheet,Finished Good,pcs,Electronics,Active,14-03-2019,
+M0209,CoppeR Wire,Finished Good,Uilogram,Electronics,Discontinued,25-02-2010,7.91
+M0210,Steel Pipe,Finished Good,kiloQram,Metals,Inactive,30-06-2019,231.16
+M0211,SGeel Pipe,Component,kilogram,Chemicals,Discontinued,07-25-2024,14.65
+M0212,Steel Pipe,Raw Material,pcs,Plastics,Active,02-10-2022,482.07
+M0213,Copper Wire,Component,pcs,Chemicals,Active,02-26-2010,105.51
+M0214,Copper Wire,Finished Good,kilogram,Plastics,Discontinued,06-09-2021,312.33
+M0215,Plastic Sheet,Assembly,kilogJam,Metals,Discontinued,26-01-2016,453.46
+M0216,CirZuit Board,Assembly,Kg,Plastics,Active,21-07-2010,377.68
+M0217,Plastic Sheet,Component,Kg,Metals,Discontinued,11-07-2022,240.85
+M0218,Copper Wire,Raw Material,kg,Chemicals,Active,05-16-2020,483.3
+M0219,Copper Wire,Assembly,kilogram,Chemicals,Active,02-01-2018,204.28
+M0220,Plastic Sheet,Assembly,kilogram,Chemicals,Under Review,14-05-2010,249.71
+M0221,Plastic Sheet,Raw Material,pcs,Metals,Under Review,05-23-2011,303.2
+M0222,Copper WirJ,Finished Good,kg,Chemicals,Under Review,04-28-2013,85.39
+M0223,StFel Pipe,Finished Good,kilVgram,Metals,Active,18-10-2019,
+M0224,Zircuit Board,Assembly,Kg,Electronics,Active,30-07-2021,105.5
+M0225,Steel PipP,Component,pcs,,Discontinued,02-14-2012,178.33
+M0226,Circuit Board,Component,kilogram,Metals,Active,02-11-2016,334.3
+M0227,Copper Wire,Raw Material,kilogram,Metals,Discontinued,06-17-2017,304.17
+M0228,Steel Pipe,Finished Good,Kg,Chemicals,Inactive,09-11-2018,
+M0229,Circuit Board,Component,kg,Electronics,Active,28-09-2010,433.76
+M0230,Copper Wire,Component,each,Metals,Active,10-27-2016,1.06
+M0230,Copper Wire,Component,each,Metals,Active,10-27-2016,1.06
+M0231,CircuiL Board,Assembly,kilogram,Chemicals,Active,04-02-2010,244.52
+M0232,CiHcuit Board,Raw Material,pcs,,Inactive,02-04-2021,162.69
+M0233,Steel Pipe,Raw Material,kg,,Discontinued,31-01-2013,
+M0234,STeel Pipe,Assembly,kilogram,Metals,Under Review,27-05-2014,419.97
+M0235,Copper Pire,Assembly,kg,Metals,Discontinued,08-03-2020,84.85
+M0236,Steel Pipe,Component,Kg,Metals,Discontinued,22-08-2015,179.14
+M0237,Steel PipA,Assembly,Kg,Metals,Active,30-12-2024,127.08
+M0238,Plastic Sheet,Component,pFs,Metals,Under Review,18-05-2017,
+M0239,Steel Pipe,Finished Good,KY,Plastics,Under Review,06-01-2012,7.29
+M0240,Steel Pipe,Finished Good,kilogram,Plastics,Active,01-11-2017,498.35
+M0241,Copper Wire,Assembly,each,Metals,Inactive,11-20-2021,125.86
+M0242,Copper Wire,Component,kY,Electronics,Active,02-16-2010,328.94
+M0243,Plastic ShVet,Raw Material,pcs,Electronics,Inactive,24-01-2016,
+M0244,Circuit Board,Component,Kg,Plastics,Inactive,01-17-2022,308.78
+M0245,Plastic Sheet,Finished Good,kilogram,,Discontinued,06-07-2013,445.7
+M0246,Steel Pipe,Finished Good,kg,Plastics,Active,14-09-2023,147.41
+M0247,Steel Pipe,Raw Material,Kg,,Active,06-06-2015,481.13
+M0248,Circuit Board,Assembly,each,,Inactive,12-29-2020,179.02
+M0249,Plastic Sheet,Finished Good,kilogram,,Inactive,04-22-2011,81.66
+M0250,Steel Pipe,Finished Good,each,,Inactive,07-14-2014,449
+M0251,Circuit Board,Finished Good,each,Electronics,Inactive,02-12-2017,31.34
+M0252,Copper Wire,Assembly,kg,Plastics,Discontinued,12-23-2021,176.98
+M0253,Copper Wire,Finished Good,each,,Discontinued,29-11-2022,165.62
+M0254,Plastic Sheet,Raw Material,pcs,Electronics,Inactive,09-02-2012,440.57
+M0255,Copper Wire,Raw Material,eYch,Electronics,Inactive,20-08-2014,462.07
+M0256,Steel Pipe,Raw Material,kg,Plastics,Active,30-09-2017,266.63
+M0257,Plastic Sheet,Component,each,Chemicals,Under Review,02-15-2014,
+M0258,Circuit Board,Raw Material,Kg,Metals,Discontinued,01-08-2014,299.95
+M0259,Copper Wire,Component,kg,Electronics,Under Review,08-08-2023,221.7
+M0260,SteAl Pipe,Assembly,pcs,Electronics,Under Review,03-26-2023,173.84
+M0261,Copper Wire,Finished Good,Kg,Plastics,Active,09-01-2019,227.86
+M0262,Copper Wire,Component,pcs,Electronics,Active,07-11-2014,353.57
+M0263,Plastic SheeY,Component,Kg,Plastics,Discontinued,07-11-2020,284
+M0264,Circuit Board,Assembly,kilogram,Electronics,Under Review,04-14-2020,261.68
+M0265,Plastic Sheet,Finished Good,Kg,Plastics,Under Review,04-24-2010,107.67
+M0266,Plastic Sheet,Raw Material,pcX,Metals,Discontinued,01-13-2017,289.1
+M0267,Copper Wire,Raw Material,kg,Chemicals,Under Review,17-09-2012,100.62
+M0268,Plastic SheZt,Assembly,pcs,Chemicals,Inactive,06-20-2014,400.35
+M0269,Copper Wire,Component,kilogRam,Plastics,Inactive,11-08-2022,244.08
+M0270,Copper Wire,Component,kilogrBm,,Under Review,02-04-2014,499.24
+M0271,Copper Wire,Assembly,kilogram,Plastics,Under Review,14-03-2016,
+M0272,Steel Pipe,Component,each,Plastics,Discontinued,14-10-2013,16.88
+M0273,Circuit Board,Raw Material,kg,Metals,Active,15-11-2023,300.09
+M0274,PlaVtic Sheet,Raw Material,Pcs,Chemicals,Under Review,09-07-2021,445.99
+M0275,Steel Pipe,Component,kilogram,Chemicals,Discontinued,03-10-2011,452.48
+M0276,Plastic Sheet,Component,kilogram,Chemicals,Active,15-01-2020,263.45
+M0276,Plastic Sheet,Component,kilogram,Chemicals,Active,15-01-2020,263.45
+M0277,Copper WirZ,Component,Kg,Plastics,Under Review,08-01-2018,329.52
+M0278,Plastic Sheet,Assembly,Kg,,Discontinued,12-28-2012,162.2
+M0279,Plastic Sheet,Component,each,Chemicals,Inactive,15-11-2017,66.05
+M0280,Steel Pipe,Component,kilogram,Electronics,Under Review,22-03-2018,
+M0281,SteDl Pipe,Assembly,Bg,Electronics,Discontinued,14-06-2014,85.57
+M0282,Steel Pipe,Raw Material,kilograX,,Active,12-04-2019,12.51
+M0283,Copper Wire,Raw Material,kilogram,Plastics,Under Review,08-28-2020,236.22
+M0284,Copper Wire,Component,pcs,Chemicals,Active,29-12-2017,
+M0285,Copper WiEe,Finished Good,kg,,Inactive,01-02-2012,126.36
+M0286,Plastic Sheet,Assembly,each,Plastics,Under Review,29-02-2020,334.04
+M0287,Circuit Board,Raw Material,Kg,Metals,Discontinued,02-01-2021,31.86
+M0288,Plastic Sheet,Raw Material,Kg,Electronics,Under Review,25-09-2015,258.96
+M0289,Steel Pipe,Finished Good,kg,,Discontinued,13-01-2021,252.96
+M0290,Copper Wire,Raw Material,kilogram,Metals,Discontinued,04-05-2020,470.48
+M0291,Plastic Sheet,Component,kilogram,Plastics,Active,05-09-2016,13.19
+M0292,Plastic SheeQ,Component,each,,Inactive,05-09-2012,405.07
+M0292,Plastic SheeQ,Component,each,,Inactive,05-09-2012,405.07
+M0293,Plastic Sheet,Component,each,Plastics,Discontinued,14-05-2022,37.25
+M0294,Circuit Board,Finished Good,kilogram,Metals,Under Review,07-11-2013,299.29
+M0294,Circuit Board,Finished Good,kilogram,Metals,Under Review,07-11-2013,299.29
+M0295,Circuit Board,Raw Material,each,Chemicals,Discontinued,07-18-2011,200.49
+M0296,Copper WZre,Finished Good,kg,Metals,Inactive,10-11-2013,87.23
+M0297,Copper Wire,Component,pcs,Chemicals,Inactive,26-12-2018,303.07
+M0298,Plastic Sheet,Raw Material,kilogram,Plastics,Discontinued,10-03-2011,409.71
+M0299,Steel PYpe,Component,kilogram,Metals,Active,12-23-2015,466.46
+M0300,Steel Pipe,Component,pcs,Electronics,Active,31-08-2024,457.92
+M0301,Copper Wire,Finished Good,pcs,Metals,Discontinued,15-05-2021,
+M0302,Circuit Board,Assembly,each,Electronics,Active,27-10-2023,1.96
+M0303,Steel PMpe,Finished Good,each,Chemicals,Under Review,06-29-2021,201.28
+M0304,Steel Pipe,Component,Lach,Plastics,Under Review,04-02-2018,271.02
+M0305,Circuit Board,Raw Material,kilogram,Electronics,Under Review,04-06-2017,65.94
+M0306,Circuit Board,Raw Material,kilogram,Electronics,Under Review,04-06-2017,65.94
+M0307,Circuit BoaGd,Raw Material,pNs,Electronics,Inactive,02-05-2013,488.5
+M0308,Plastic Sheet,Component,kilograC,Chemicals,Discontinued,21-11-2014,11.86
+M0309,Copper Wire,Raw Material,KJ,Metals,Inactive,10-31-2019,338.6
+M0310,PlaCtic Sheet,Finished Good,kilogram,Plastics,Inactive,27-07-2021,365.6
+M0311,Plastic Sheet,Finished Good,eacL,Metals,Under Review,27-07-2023,87.79
+M0312,Copper Wire,Raw Material,kR,Electronics,Active,11-06-2016,163.28
+M0313,Steel Pipe,Component,pcs,Metals,Inactive,20-12-2020,420.14
+M0314,Steel Pipe,Finished Good,kilogram,,Under Review,26-08-2013,141.26
+M0315,Steel Pipe,Finished Good,kilogram,,Under Review,26-08-2013,141.26
+M0316,Plastic Sheet,Raw Material,Rg,Metals,Discontinued,01-13-2023,173.82
+M0317,Circuit Board,Assembly,kilogZam,Metals,Discontinued,08-07-2019,21.15
+M0318,Circuit Board,Assembly,kilogZam,Metals,Discontinued,08-07-2019,21.15
+M0319,Circuit Board,Assembly,kg,Electronics,Active,12-14-2012,164.58
+M0320,Steel Pipe,Raw Material,pcs,,Under Review,15-11-2018,67.66
+M0321,Plastic Sheet,Component,Og,Plastics,Discontinued,14-06-2016,458.45
+M0322,CoppeE Wire,Component,kg,Electronics,Discontinued,02-04-2015,78.4
+M0323,Circuit Board,Raw Material,each,Plastics,Under Review,05-07-2016,151.97
+M0324,Copper Wire,Finished Good,kg,Chemicals,Inactive,23-02-2012,95.36
+M0325,CircuKt Board,Component,Kg,Electronics,Discontinued,27-06-2023,183.44
+M0326,Circuit Board,Raw Material,kC,Plastics,Under Review,11-08-2021,41.22
+M0327,CoVper Wire,Component,pQs,Plastics,Discontinued,05-04-2024,29.49
+M0328,Circuit Board,Raw Material,kilogram,Chemicals,Inactive,11-03-2022,478.85
+M0329,Plastic Sheet,Assembly,pcs,,Under Review,27-04-2018,18.95
+M0330,Zopper Wire,Assembly,kg,Metals,Active,12-03-2018,247.63
+M0331,SteeI Pipe,Component,Kg,,Inactive,22-02-2021,183.84
+M0332,Plastic Sheet,Finished Good,kilogram,Plastics,Under Review,23-03-2010,350.81
+M0333,Circuit Board,Component,kilogram,Metals,Inactive,06-07-2019,302.55
+M0334,Copper Wire,Finished Good,Ics,,Active,09-07-2011,369.65
+M0335,Plastic Sheet,Component,Kg,Electronics,Under Review,05-10-2016,22.73
+M0336,Copper Wire,Assembly,pcs,Plastics,Under Review,28-12-2023,292.21
+M0337,Circuit Board,Raw Material,each,,Discontinued,29-04-2013,239.98
+M0338,Steel Pipe,Raw Material,kilogram,Metals,Discontinued,27-08-2012,101.46
+M0339,CircuitZBoard,Raw Material,Kg,Chemicals,Inactive,08-09-2017,8.72
+M0340,Circuit Board,Component,kilogram,Metals,Active,04-04-2020,191.52
+M0341,Copper Wire,Component,Pg,Chemicals,Inactive,18-10-2019,355.95
+M0342,Steel Pipe,Component,KG,Metals,Discontinued,02-11-2024,169.06
+M0343,Copper Wire,Component,pQs,Metals,Discontinued,02-01-2020,
+M0344,Copper Wire,Raw Material,Yg,,Inactive,09-06-2011,497.22
+M0345,Plastic Sheet,Raw Material,each,Chemicals,Discontinued,04-14-2011,496.33
+M0346,Plastic Sheet,Raw Material,each,Chemicals,Discontinued,04-14-2011,496.33
+M0347,Steel Pipe,Component,kg,Plastics,Discontinued,04-04-2018,177.54
+M0348,Plastic Sheet,Raw Material,kg,Metals,Discontinued,18-06-2021,161.49
+M0349,Plastic Sheet,Raw Material,kg,Metals,Discontinued,18-06-2021,161.49
+M0350,Copper Wire,Finished Good,pcs,Metals,Discontinued,11-10-2020,489.83
+M0351,Copper Wire,Finished Good,pcs,Electronics,Active,10-15-2023,
+M0352,Steel Pipe,Raw Material,kg,Metals,Discontinued,08-18-2015,74.5
+M0353,Copper Wire,Assembly,each,Plastics,Under Review,05-18-2023,384.01
+M0354,Circuit Board,Component,Kg,Plastics,Under Review,15-02-2024,
+M0355,Copper Wire,Assembly,Kg,Plastics,Discontinued,11-20-2010,399.25
+M0356,CoIper Wire,Component,kg,Metals,Discontinued,24-11-2012,93.59
+M0357,CoIper Wire,Component,kg,Metals,Discontinued,24-11-2012,93.59
+M0358,Steel Pipe,Raw Material,kg,Metals,Under Review,12-15-2020,
+M0359,Plastic Sheet,Component,each,Plastics,Discontinued,10-03-2010,59.14
+M0360,Copper Wire,Raw Material,kg,,Discontinued,07-28-2017,241.87
+M0361,CopperGWire,Assembly,kilogram,Electronics,Discontinued,27-07-2012,164.13
+M0362,Circuit Board,Component,kilogram,Plastics,Under Review,29-11-2011,441.62
+M0363,Copper WiYe,Component,kg,Chemicals,Discontinued,04-14-2020,10.31
+M0364,Steel Pipe,Assembly,each,Chemicals,Under Review,17-02-2016,
+M0365,Circuit Foard,Finished Good,kilogram,Plastics,Under Review,08-07-2012,319.93
+M0366,CoppRr Wire,Finished Good,pcs,Chemicals,Active,17-01-2021,102.72
+M0367,CoppRr Wire,Finished Good,pcs,Chemicals,Active,17-01-2021,102.72
+M0368,Circuit Board,Finished Good,kg,Electronics,Under Review,04-02-2020,456.06
+M0369,Steel Pipe,Raw Material,pcs,Metals,Active,04-11-2023,
+M0370,Copper Wire,Raw Material,pFs,Electronics,Inactive,12-03-2020,76.48
+M0371,Circuit Board,Raw Material,kilogram,Plastics,Discontinued,29-12-2015,66.9
+M0372,Steel Pipe,Raw Material,each,Chemicals,Inactive,20-06-2015,481.25
+M0373,CoppKr Wire,Raw Material,Wach,Chemicals,Discontinued,02-15-2020,320.89
+M0374,CoppeA Wire,Component,kg,Plastics,Active,26-03-2014,326.6
+M0375,Plastic Sheet,Component,Og,Metals,Under Review,06-04-2012,423.58
+M0376,Plastic Sheet,Raw Material,each,Metals,Discontinued,03-10-2023,
+M0377,Plastic Sheet,Raw Material,each,Metals,Discontinued,03-10-2023,
+M0378,Circuit Board,Finished Good,each,Electronics,Under Review,03-22-2016,327.77
+M0379,Circuit Board,Assembly,pcs,,Inactive,14-05-2022,380.51
+M0380,Circuit Board,Raw Material,kilogram,,Under Review,04-03-2021,186.37
+M0381,Steel Pipe,Raw Material,each,Plastics,Active,02-07-2020,99.2
+M0382,Steel Pipe,Component,kilogram,Metals,Discontinued,05-14-2022,393.9
+M0383,Circuit Board,Raw Material,kiOogram,Electronics,Active,02-01-2013,444.92
+M0384,PNastic Sheet,Assembly,pXs,Electronics,Discontinued,30-01-2017,228.18
+M0385,Copper Hire,Raw Material,each,,Inactive,01-07-2016,285.12
+M0386,Circuit Board,Finished Good,kilogram,Electronics,Active,08-09-2011,195.36
+M0387,Circuit Board,Component,kilogram,,Discontinued,08-02-2020,110.56
+M0388,Steel Pipe,Raw Material,pcs,Plastics,Inactive,29-01-2013,121.34
+M0389,CirVuit Board,Raw Material,each,Metals,Active,01-06-2014,19.86
+M0390,CTrcuit Board,Raw Material,pcs,Plastics,Discontinued,04-16-2024,430.66
+M0391,Steel Pipe,Assembly,kg,,Active,25-11-2016,38.09
+M0392,Steel Pipe,Assembly,kilogrEm,Plastics,Active,11-20-2019,259.29
+M0393,Plastic Sheet,Raw Material,kilogram,Chemicals,Under Review,21-07-2010,162.27
+M0394,Steel Pipe,Finished Good,kilogram,Electronics,Under Review,28-03-2011,419.75
+M0395,Copper Wire,Assembly,kilogram,Plastics,Active,04-04-2011,204.35
+M0396,Steel Pipe,Component,Mg,,Discontinued,09-07-2012,399.94
+M0397,Plastic Sheet,Assembly,kg,Electronics,Inactive,07-13-2013,
+M0398,Plastic Sheet,Component,pcs,Metals,Discontinued,04-23-2023,86.06
+M0399,Plastic Sheet,Component,pcs,Metals,Discontinued,04-23-2023,86.06
+M0400,Circuit Board,Raw Material,each,,Inactive,08-15-2011,149.18
+M0401,Steel Pipe,Component,each,Chemicals,Inactive,05-13-2020,204.16
+M0402,Circuit Board,Assembly,kilogram,Plastics,Inactive,07-19-2020,326.28
+M0403,Steel Pipe,Component,Kg,Plastics,Active,11-05-2012,146.56
+M0404,Copper Wire,Component,Kg,,Discontinued,10-27-2022,358.49
+M0405,Steel Pipe,Assembly,Fach,Metals,Discontinued,16-10-2010,311.75
+M0406,Copper Wire,Raw Material,eaEh,Plastics,Inactive,16-08-2023,373.21
+M0407,Copper Wire,Component,each,Metals,Discontinued,08-07-2013,394.79
+M0408,Copper Wire,Assembly,kilogram,,Active,10-01-2017,468.36
+M0409,Copper Wire,Finished Good,kg,Metals,Discontinued,05-25-2023,129.12
+M0410,Plastic SJeet,Component,pcs,Chemicals,Discontinued,18-01-2015,74.35
+M0411,Circuit BoarG,Assembly,kg,Electronics,Discontinued,12-07-2015,149.52
+M0412,Plastic Sheet,Component,Kg,Plastics,Under Review,02-08-2023,396.86
+M0413,Steel Pipe,Assembly,each,,Inactive,07-08-2020,193.34
+M0414,PlCstic Sheet,Finished Good,Kg,,Inactive,06-30-2017,190.99
+M0415,Copper Wire,Assembly,each,Electronics,Discontinued,09-27-2016,459.99
+M0416,Steel Pipe,Component,pcs,Metals,Inactive,14-08-2019,435.96
+M0417,Circuit BoaKd,Finished Good,Kg,Electronics,Discontinued,31-08-2021,406.89
+M0418,CJpper Wire,Raw Material,each,Chemicals,Under Review,13-05-2022,484.13
+M0419,CircuiO Board,Component,Kg,Chemicals,Active,04-05-2021,307.95
+M0420,Steel Pipe,Assembly,Kg,Plastics,Inactive,05-07-2011,
+M0421,Steel Pipe,Component,Kg,Metals,Active,30-04-2023,281.64
+M0422,Steel Pipe,Component,Kg,Metals,Active,30-04-2023,281.64
+M0423,Plastic Sheet,Raw Material,Kg,,Under Review,07-11-2011,233.32
+M0424,PlastiY Sheet,Assembly,each,Plastics,Discontinued,10-10-2020,331.67
+M0425,Circuit Board,Assembly,pcs,Electronics,Discontinued,20-05-2016,492.51
+M0426,Plastic Sheet,Raw Material,kilogram,Metals,Under Review,10-23-2019,246.93
+M0427,Steel Pipe,Assembly,Kg,Plastics,Inactive,10-11-2021,99.49
+M0428,Plastic Sheet,Component,pcs,Metals,Inactive,02-01-2012,186.15
+M0429,Copper Wire,Finished Good,each,,Under Review,12-06-2021,92.56
+M0430,Plastic Sheet,Assembly,each,Plastics,Under Review,21-12-2022,315.43
+M0431,Plastic Sheet,Assembly,each,Plastics,Under Review,21-12-2022,315.43
+M0432,Circuit Board,Assembly,Kg,Chemicals,Active,02-04-2014,460.14
+M0433,Circuit Board,Assembly,kilogram,,Inactive,06-07-2019,
+M0434,Steel POpe,Raw Material,pcs,Chemicals,Active,17-12-2019,271.33
+M0435,Copper Wire,Assembly,pcs,Metals,Discontinued,13-12-2021,103.83
+M0436,Copper Wire,Assembly,pcs,Metals,Discontinued,13-12-2021,103.83
+M0437,Steel Pipe,Assembly,pcs,,Inactive,21-06-2010,273.47
+M0438,Circuit Board,Raw Material,pcs,Metals,Inactive,02-04-2014,183.68
+M0439,Copper Wire,Raw Material,pcs,Metals,Inactive,02-10-2011,361.29
+M0440,Plastic Sheet,Component,Kg,,Inactive,17-02-2013,440.92
+M0441,Plastic Sheet,Finished Good,each,Chemicals,Active,14-07-2018,462.61
+M0442,Plastic Sheet,Finished Good,pcs,Electronics,Active,08-09-2024,285.98
+M0443,CoppWr Wire,Component,kilogram,Electronics,Discontinued,11-26-2024,184.51
+M0444,Copper Wire,Assembly,Kg,Plastics,Inactive,13-03-2015,
+M0445,Copper Wire,Assembly,Kg,Plastics,Inactive,13-03-2015,
+M0446,Plastic Sheet,Assembly,pcs,,Under Review,05-20-2020,5.94
+M0447,Plastic Sheet,Raw Material,kg,Metals,Under Review,18-04-2011,491.1
+M0448,Steel Pipe,Finished Good,each,Metals,Under Review,02-07-2023,27.14
+M0449,Copper Wire,Component,kg,Plastics,Inactive,15-12-2013,134.13
+M0450,Copper Wire,Component,kg,Plastics,Inactive,15-12-2013,134.13
+M0451,Circuit Board,Finished Good,kilogram,Plastics,Active,29-04-2023,119.19
+M0452,Plastic Sheet,Finished Good,kilogram,Electronics,Inactive,02-12-2018,87.34
+M0453,Steel Pipe,Finished Good,kilogram,Metals,Inactive,12-02-2012,131.71
+M0454,Plastic Sheet,Finished Good,kilogram,Metals,Active,03-12-2024,187.22
+M0455,Plastic Sheet,Finished Good,pcs,Metals,Discontinued,26-08-2017,139.43
+M0456,Circuit Board,Component,each,,Inactive,11-14-2013,84.46
+M0457,Steel Pipe,Raw Material,kilogram,Metals,Active,15-12-2015,345.11
+M0458,Circuit Board,Component,Kg,Metals,Discontinued,03-13-2010,451.73
+M0459,Plastic Sheet,Assembly,pcs,Electronics,Active,27-01-2024,424.2
+M0460,Circuit Board,Component,pcs,Metals,Under Review,19-07-2021,
+M0461,Steel Pipe,Assembly,Kg,Metals,Inactive,06-11-2020,430.73
+M0462,Plastic Sheet,Component,pcs,Chemicals,Active,05-09-2023,301.4
+M0463,Steel Pipe,Component,Pg,Chemicals,Inactive,14-06-2016,58.8
+M0464,Steel Hipe,Assembly,Zilogram,,Discontinued,24-08-2010,198.39
